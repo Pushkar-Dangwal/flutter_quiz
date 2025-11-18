@@ -1,16 +1,24 @@
-# flutter_quiz
+# Flutter Quiz App
 
-A new Flutter project.
+A Flutter quiz application with an interactive user interface.
+
+## Overview
+
+This is a quiz app built with Flutter that provides an engaging way to test knowledge through interactive questions and answers.
+
+## Demo
+
+### Screen Recording
+
+![Demo Video](assets/Flutter%20App%20Recodring.webm)
+
+[Watch on Google Drive](https://drive.google.com/file/d/1p_JmfWx_t9ySKN7C7AR5-kjJNnxRmvFm/view?usp=sharing)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this project:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+flutter pub get
+flutter run
+```
